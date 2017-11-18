@@ -20,4 +20,8 @@ export default {
   color: #2c3e50;
   margin-top: 60px;
 }
+img {
+  max-height: 100px;
+  margin-bottom: 30px;
+}
 </style>
